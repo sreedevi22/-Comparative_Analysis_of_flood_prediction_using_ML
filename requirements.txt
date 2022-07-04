@@ -1,0 +1,11 @@
+django
+flask
+pillow
+jupyter
+matplotlib
+numpy
+pandas
+scikit-learn
+sklearn
+scipy
+seaborn
